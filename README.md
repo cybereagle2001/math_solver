@@ -4,7 +4,7 @@ For this early version I created only first and second degree real solution in t
 
 ## How To use math_solver
 
-> git clone 
+> git clone https://github.com/cybereagle2001/math_solver.git
 
 > cd math_solver
 
