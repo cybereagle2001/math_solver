@@ -5,6 +5,13 @@ For this early version I created only first and second degree real solution in t
 ## How To use math_solver
 
 > git clone 
+
 > cd math_solver
+
 > chmod +x math_solver
+
 > ./math_solver
+
+## Author 
+©All Right Reserved
+Oussama Ben Hadj Dahman (cybereagle2001)
