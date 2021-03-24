@@ -1,3 +1,4 @@
+![math_solver](https://user-images.githubusercontent.com/63789665/112329674-b0ea9700-8cb7-11eb-912c-9d3fcad73741.png)
 # math_solver
 math_solver is made to find equation solutions.
 For this early version I created only first and second degree real solution in the futur I will add other option and I will include imaginary solutions.
